@@ -1,4 +1,4 @@
-Tool for fixing textures names in DAE files of *Soul Reaver* models converted with Ben Lincoln's ToolChain for importing into Unity.
+Tool for fixing materials names in DAE files of *Soul Reaver* models converted with Ben Lincoln's ToolChain for importing into Unity.
 
 1. Follow instructions of ToolChain, do everything except script execution inside Blender;
 2. Copy *AreaModelsMaterial*, *AreaModelsSpectral* and *ObjectModels* folders from ToolChain build directory to directory with this tool, then run it;
