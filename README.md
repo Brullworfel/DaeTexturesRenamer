@@ -11,4 +11,4 @@ What this tool actually do:
 1. Opens each \*.dae file in *AreaModelsMaterial*, *AreaModelsSpectral* and *ObjectModels* folders;
 2. Renames each *material* node to texture file name;
 3. fixes *image* and *effect* nodes to new names;
-4. removes duplicate *image*, *effect*, and *material* nodes. Now several meshes can you same material and not doplicate it.
+4. removes duplicate *image*, *effect*, and *material* nodes. Now several meshes can use same material and not doplicate it.
